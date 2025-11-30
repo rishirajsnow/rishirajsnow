@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishiraj Bhowmik</h1>
-<h3 align="center">Sr. Software Developer | Full-Stack | DevOps</h3>
+<h3 align="center">Sr. Software Developer</h3>
 
 ---
 
