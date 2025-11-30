@@ -63,20 +63,5 @@ Here are some things I’ve been building recently:
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishirajsnow&theme=dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rishirajsnow&show_icons=true&theme=dark" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishirajsnow&theme=darkhub&margin-w=10" />
-</p>
-
----
 
 ### ✨ Thanks for visiting my profile!
